@@ -114,3 +114,11 @@ button {
     bottom: 0;
     width: 100%;
   }
+
+  @media (min-width: 390px) and (max-width: 844px){
+    .card-container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
