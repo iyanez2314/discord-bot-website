@@ -96,6 +96,11 @@ button {
     font-family: 'Silkscreen', cursive;
    }
    
+   button span a{
+       color: white;
+       text-decoration: none;
+   }
+
    button:hover {
     border: 1px solid white;
    }
